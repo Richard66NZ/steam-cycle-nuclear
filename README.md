@@ -1,8 +1,4 @@
 # steam-cycle-nuclear
-python code using pyXsteam to display the nuclear rankine steam cycle plot.
-
-
-
 Display T-s (Temperature-Entropy) diagram for the nuclear rankine cycle. 
 
 Code will calculate properties and overall efficiency then display to plot.
